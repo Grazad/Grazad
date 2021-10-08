@@ -1,13 +1,13 @@
 ### Hi there, I'm Ghulam Rasool 👋
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying my final year in High School.\
-🌱 &nbsp;I'm on track for learning more about Pentesting, Artificial Intelligence, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I write code & manage projects.\
+💡 &nbsp;I like to explore new technologies and develop software solutions.\
+🎓 &nbsp;I'm currently studying my final year in University of balochistan Computer science\
+🌱 &nbsp;I'm on track for learning more about PHP, Operating system , and Python.\
+✍️ &nbsp;In my free time, I write Urdu column about problem's of balochistan.\
 💬 &nbsp;Feel free to reach out to me for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at lunarlynix@gmail.com! I'll try to respond as soon as I can. \
-📄 &nbsp;Please have a look at my [Résumé]() for more details about me. I'm open to feedback and suggestions! \
+✉️ &nbsp;You can shoot me an email at grasoolazad@gmail.com! I'll try to respond as soon as I can. \
+📄 &nbsp;Please have a look at my [Grazad]() for more details about me. I'm open to feedback and suggestions! \
 ✨ &nbsp;Looking to get a Job at Discord with my skills valued as a software developer! 
 
 ### 🛠 &nbsp;Tech Stack

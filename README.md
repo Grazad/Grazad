@@ -21,16 +21,10 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
-### 🤝🏻 Connect with Me
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Instagram](https://img.shields.io/badge/g.r.azad%233400-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
-![Twitter](https://img.shields.io/badge/LunarLynix-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
-![Twitter](https://img.shields.io/badge/Hack%20The%20Box-%22B2A2A.svg?style=for-the-badge&logo=Hack%20The%20Box&logoColor=white)
-
 ### ⚙️ &nbsp;GitHub Analytics
-<a href="https://github.com/lunarlynix">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lunarlynix&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=lunarlynix"/>
+<a href="https://github.com/Grazad">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Grazad&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Grazad"/>
 </a>
 
     
